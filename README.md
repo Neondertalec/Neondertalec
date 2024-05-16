@@ -7,7 +7,7 @@
 * **Gender:** Male 🚹
 * **Pronounce:** He/Him 💬
 * **Favourite color:** Pink 🎨
-* Studying in a Unversity 🎓
+* Studying in a University 🎓
 * Programmer 💻
 * Programming languages: JS, Java, C#, PHP, PY, Nim, HTML & SCSS, SQL
 
