@@ -16,3 +16,4 @@ Cought, If you need to contact me.. my discord: `_ression`
 
 ***
 ![link](https://komarev.com/ghpvc/?username=neondertalec&label=Profile%20views&color=0e75b6&style=flat)
+![link](http://depuresu.net/api/counter/visits.php)
