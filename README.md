@@ -5,7 +5,7 @@
 * **Languages:** English, Russian, Latvian
 * **Birthday:** 08.11.2004 🎂
 * **Gender:** Male 🚹
-* **Pronounce:** He/Him 💬
+* **Pronouns:** He/Him 💬
 * **Favourite color:** Pink 🎨
 * Studying in a University 🎓
 * Programmer 💻
@@ -15,5 +15,5 @@
 Cought, If you need to contact me.. my discord: `_ression`
 
 ***
-![link](https://komarev.com/ghpvc/?username=neondertalec&label=Profile%20views&color=0e75b6&style=flat)
+![link](https://komarev.com/ghpvc/?username=neondertalec&label=Profile%20views&color=0e75b6&style=flat)  
 ![link](http://depuresu.net/api/counter/visits.php)
